@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+query_history.json
+database/query_log.db
+venv/
+.venv/
