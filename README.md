@@ -107,7 +107,11 @@ python -m streamlit run app.py
 | Containerization | Docker                          |
 
 ---
+## 📸 Screenshots
+<img width="1920" height="1080" alt="fastapi" src="https://github.com/user-attachments/assets/b2641ff5-6727-4b1a-b0d5-694b05dd8e1c" />
+<img width="1920" height="1080" alt="Screenshot (921)" src="https://github.com/user-attachments/assets/09b3f768-baf2-431e-8902-fe1dea73fa29" />
 
+---
 ## 👨‍💻 Author
 
 **Sai Charan Goud K**
