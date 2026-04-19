@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-groq
+langchain-community
+plotly
+pandas
+sqlalchemy
+faiss-cpu
+sentence-transformers
+fastapi
+uvicorn
+python-multipart
