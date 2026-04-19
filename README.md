@@ -7,6 +7,10 @@ Get back SQL, results, charts, and explanations — instantly.
 
 ---
 
+## 🚀 Live Demo
+🌐 [Try it on Streamlit Cloud](https://sql-analytics-agent-zuc2vqbzfo8b64jq5ulpjs.streamlit.app/)
+
+---
 ## ⚡ What Makes This Different
 
 | Feature          | Typical Text-to-SQL   | This Project                           |
